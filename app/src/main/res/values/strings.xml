@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">101 C Problems</string>
+
+    <string name="chapter_name_1">PLAY\nWITH\nPRINTF()</string>
+    <string name="chapter_name_2">DATA TYPE\nAND\nVARIABLES</string>
+    <string name="chapter_name_3">USER\nINPUT\nSCANF()</string>
+    <string name="chapter_name_4">APPLY\nYOUR\nCONDITIONS</string>
+    <string name="chapter_name_5">MAGIC\nOF\nLOOP</string>
+    <string name="chapter_name_6">USES\nOF\nARRAY</string>
+    <string name="chapter_name_7">FUN\nOF\nFUNCTION</string>
+    <string name="chapter_name_8">START\nWITH\nSTRING</string>
+    <string name="chapter_name_9">POINTER\nDE\nCOMPLEXITY</string>
+    <string name="chapter_name_10">STRUCTURE\nAND\nUNION</string>
+    <string name="chapter_name_11">BASIC\nOF\nFILE I/O</string>
+    <string name="chapter_name_12">MATH\nAND\nCODING</string>
+
+    <string name="problem_01_05">PROBLEM [01 - 05]</string>
+    <string name="problem_06_12">PROBLEM [06 - 12]</string>
+    <string name="problem_13_15">PROBLEM [13 - 15]</string>
+    <string name="problem_16_25">PROBLEM [16 - 25]</string>
+    <string name="problem_26_43">PROBLEM [26 - 43]</string>
+    <string name="problem_44_53">PROBLEM [44 - 53]</string>
+    <string name="problem_54_63">PROBLEM [54 - 63]</string>
+    <string name="problem_64_73">PROBLEM [64 - 73]</string>
+    <string name="problem_74_80">PROBLEM [74 - 80]</string>
+    <string name="problem_81_85">PROBLEM [81 - 85]</string>
+    <string name="problem_86_90">PROBLEM [86 - 90]</string>
+    <string name="problem_91_100">PROBLEM [91 - 100]</string>
+
+    <string name="_1">1</string>
+    <string name="_01">01</string>
+    <string name="_12">12</string>
+    <string name="_02">02</string>
+    <string name="_03">03</string>
+    <string name="_04">04</string>
+    <string name="_05">05</string>
+    <string name="_06">06</string>
+    <string name="_07">07</string>
+    <string name="_08">08</string>
+    <string name="_09">09</string>
+    <string name="_10">10</string>
+    <string name="_11">11</string>
+
+    <!-- - About Screen strings -->
+    <string name="app">101 C Programming Problems</string>
+    <string name="app_name_version">101 C Problems: v-</string>
+    <string name="app_release_date">25 October, 2016</string>
+
+    <string name="rate_our_app">Rate This App</string>
+
+
+    <string name="information_and_help">Plan and Problem Setters</string>
+    <string name="information_and_help_text1">Mukla.C (Rayhan Hossain)\nLecturer;</string>
+    <string name="information_and_help_text2">Md. Mostasim Billah\nStudent- 17th Batch;</string>
+    <string name="information_and_help_text3">Mahadi Hasan Joy\nStudent- 17th Batch;</string>
+    <string name="information_and_help_text4">Department of Software Engineering\nDaffodil International University</string>
+
+    <string name="contact">Developer Contact</string>
+    <string name="contact_developer_name">AppsFacto</string>
+    <string name="contact_text_mobile_1">+8801746969164</string>
+    <string name="contact_text_mobile_clone"> , </string>
+    <string name="contact_text_mobile_2"> +8801520090525</string>
+    <string name="contact_text_email">appsfacto@gmail.com</string>
+    <string name="contact_web">http://www.appsfacto.com</string>
+    <!-- end -->
+
+</resources>
