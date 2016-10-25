@@ -235,19 +235,17 @@ int main()
         <div class="panel panel-danger"><pre>Code: </pre>
       <div class="panel-body"> <pre class="line-numbers"> <code class="language-c">
 
-    #include&lt;stdio.h&gt; 
- 
-int main()
-{
+    #include&lt;stdio.h&gt;
 
-    double r=5.5;
-    double pi=3.1416;
-    double area=pi*r*r;
-
-    printf("%.2lf\n",area);
+int main(){
+	int i = 0;
+	int j = 0;
+	j = i++ + ++i;
+    printf("%d %d",i,j);//Output : 2 2
 
     return 0;
-}			</code></pre></div>
+}
+		</code></pre></div>
     </div>
  
     </div>
